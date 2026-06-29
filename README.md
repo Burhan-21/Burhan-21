@@ -1,27 +1,156 @@
-# 💫 About Me:
-# Hi there, I'm Shaikh Mohammed Burhan 👋<br><br>### Java Backend Developer | Spring Boot Developer | Final-Year Computer Science Engineering Student<br><br>💻 Passionate about building scalable, secure, and production-ready backend applications using Java, Spring Boot, Microservices, and Cloud technologies.<br><br>📍 **Kalaburagi (Gulbarga), Karnataka, India**<br><br>---<br><br>## 🚀 About Me<br><br>- 🎓 Final-Year Computer Science Engineering Student<br>- 💼 Aspiring Java Backend Developer<br>- 🌱 Currently learning Microservices, Redis, Apache Kafka, Kubernetes, and AWS<br>- 🔭 Building production-ready backend applications with Java and Spring Boot<br>- 💡 Passionate about REST APIs, System Design, Cloud Computing, and Backend Architecture<br>- 🎯 Open to Software Engineer, Java Backend Developer, and Spring Boot Developer opportunities<br>- ⚡ I enjoy solving real-world problems through clean, scalable, and maintainable code<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 💻 Programming Languages<br>- Java<br>- SQL<br><br>### ⚙️ Backend Development<br>- Spring Boot<br>- Spring MVC<br>- Spring Security<br>- Hibernate<br>- JPA<br>- REST APIs<br><br>### 🗄️ Databases<br>- PostgreSQL<br>- MySQL<br><br>### ☁️ DevOps & Tools<br>- Docker<br>- Git<br>- GitHub<br>- Maven<br>- IntelliJ IDEA<br>- Postman<br><br>### 📚 Currently Exploring<br>- Spring Cloud<br>- Microservices<br>- Redis<br>- Apache Kafka<br>- Kubernetes<br>- AWS<br><br>---<br><br>## 💼 Featured Projects<br><br>### 🚀 FST Pay – Virtual Prepaid Card & E-Wallet<br>A modern FinTech platform built using Spring Boot Microservices.<br><br>#### Features<br>- Virtual Prepaid Cards<br>- Digital Wallet<br>- Expense Tracking<br>- AI Financial Coach<br>- Rewards & Streaks<br>- Subscription Management<br>- Parent Monitoring<br>- Transaction History<br>- Secure Authentication<br>- PostgreSQL<br>- Docker<br>- Microservices Architecture<br><br>---<br><br>### 🛡️ LLM Guard – AI Gateway Platform<br>A secure enterprise AI gateway for managing multiple LLM providers.<br><br>#### Features<br>- API Key Management<br>- Multi-LLM Integration<br>- Authentication & Authorization<br>- Rate Limiting<br>- Token Monitoring<br>- Usage Analytics<br>- Secure AI APIs<br>- PostgreSQL<br>- Redis<br>- Docker<br><br>---<br><br>### 🏥 DocQueue – Smart Hospital Management Platform<br>A healthcare platform for digital appointment and queue management.<br><br>#### Features<br>- Online Appointment Booking<br>- Queue Management<br>- Patient Dashboard<br>- Doctor Dashboard<br>- Notifications<br>- Medical Records<br>- Secure Authentication<br>- Spring Boot Backend<br><br>---<br><br>### ⚙️ Spring Boot Microservices<br>Production-ready Microservices Architecture.<br><br>#### Features<br>- API Gateway<br>- Service Discovery<br>- Config Server<br>- Centralized Configuration<br>- Docker Containers<br>- Inter-Service Communication<br>- Fault Tolerance<br>- Distributed Architecture<br><br>---<br><br>### 🔐 Authentication & Authorization APIs<br>Secure authentication system using Spring Security.<br><br>#### Features<br>- JWT Authentication<br>- Spring Security<br>- OAuth2<br>- Role-Based Access Control (RBAC)<br>- Refresh Tokens<br>- Email Verification<br>- Password Reset<br>- Secure REST APIs<br><br>---<br><br>## 🎯 Career Goal<br><br>To become a skilled Java Backend Engineer specializing in scalable backend systems, distributed architectures, cloud-native applications, and high-performance REST APIs while contributing to impactful software products.<br><br>---<br><br>## 📫 Connect with Me<br><br>📧 **Email:** burhan.mulla21@gmail.com<br><br>🐙 **GitHub:** https://github.com/Burhan-21<br><br>💼 **LinkedIn:** https://www.linkedin.com/in/burhanmulla<br><br>📍 **Location:** Kalaburagi (Gulbarga), Karnataka, India<br><br>---<br><br>## 📊 GitHub Stats<br><br>- 💻 Building production-ready backend applications<br>- 🌱 Continuously learning new technologies<br>- 🚀 Open Source Enthusiast<br>- 🤝 Always open to collaboration<br>- 💡 Passionate about clean architecture and scalable software<br><br>---<br><br>⭐ **"Building scalable backend systems, one commit at a time."**
+<div align="center">
 
+# Hi, I'm Shaikh Mohammed Burhan 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__nyctophile.21__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burhanmulla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:burhan.mulla21@gmail.com) 
+**Java Backend Developer · Microservices · Spring Boot · Founder @ Nexus Forge**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Burhan-21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Burhan-21&theme=dark&hide_border=false)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burhanmulla)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:burhan.mulla21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Burhan-21)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__nyctophile.21__)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a final-year Computer Science student at KBN University building **production-grade Java backend systems** — not just learning from tutorials, but shipping real products with real users.
+
+- 🏆 **Top 50 / 650+ teams** — VITB × JHU Hackathon 2026
+- 💼 **2× Production Internships** before graduation — Cothon Solutions (Hyderabad) · Elevate Labs (Bengaluru)
+- 🚀 **Founder @ [Nexus Forge](https://nexusforge.dev)** — building enterprise B2B SaaS products
+- 🎓 KBN University · CSE · Expected July 2027 · CGPA: 8.3
+- 📍 Kalaburagi, Karnataka, India
+- 🎯 **Actively targeting Java Backend roles — available August 2026**
+
+> *"I don't just build features. I build systems that scale."*
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Backend
+![Java](https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+### Messaging & Caching
+![Apache Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Databases
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Frontend (for full-stack projects)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 [FST Pay](https://github.com/Burhan-21/fst-pay) — AI-Powered Digital Wallet for Teens & Families
+> FinTech · Microservices · Spring Boot · Kafka · Redis · Spring AI + Gemini
+
+A production-grade **FinTech platform** targeting teens, students, and families — with parental controls, AI financial coaching, and virtual prepaid card management built on a full microservices architecture.
+
+**What makes it stand out:**
+- 🏦 Virtual prepaid card management with spending controls & real-time WebSocket notifications
+- 🤖 AI financial coach powered by **Spring AI + Gemini API** for personalized money insights
+- 👨‍👩‍👧 Parental monitoring dashboard with approval workflows and expense analytics
+- ⚡ **Redis caching** reduced estimated latency by ~40% on high-frequency wallet reads
+- 🔒 JWT + OAuth2 + reCAPTCHA + OTP — multi-layer security across 30+ REST endpoints
+- 🐳 Fully containerized: Docker + GitHub Actions CI/CD + Eureka + API Gateway + OpenFeign
+
+`Java 21` `Spring Boot` `Microservices` `Kafka` `Redis` `PostgreSQL` `Spring AI` `React + Vite` `Docker`
+
+---
+
+### 🛡️ [LLM Guard](https://github.com/Burhan-21/llm-guard) — Enterprise AI Gateway & Governance SaaS *(Nexus Forge)*
+> Enterprise · AI Infrastructure · Multi-tenant SaaS · Spring Boot · Kafka · pgvector
+
+An **enterprise-grade AI gateway** built under [Nexus Forge](https://nexusforge.dev) — helping companies govern, monitor, and control their LLM usage across multiple AI providers.
+
+**What makes it stand out:**
+- 🔀 Multi-provider LLM routing: **OpenAI · Gemini · Anthropic · OpenRouter** in a single API
+- 🛡️ Prompt injection detection validated against a curated test suite with **zero bypass**
+- 💰 Token budgeting, cost tracking, and usage observability dashboard per tenant
+- 🔎 **pgvector** semantic search for context-aware routing and threat detection
+- 👥 Multi-tenancy with RBAC, billing, and subscription management
+- ☁️ Deployed on Render + Vercel + Supabase + Upstash
+
+`Java 21` `Spring Boot` `Microservices` `Spring Security` `Kafka` `PostgreSQL + pgvector` `Redis` `React + Vite` `Docker`
+
+---
+
+### 🏥 [DocQueue](https://github.com/Burhan-21/docqueue) — Smart Hospital Appointment Platform
+> Healthcare · Spring Boot · REST APIs · Spring Security
+
+A healthcare platform digitizing hospital appointment booking and patient queue management — built to eliminate the chaos of manual OPD queues in Indian hospitals.
+
+`Spring Boot` `Spring Security` `JWT` `PostgreSQL` `REST APIs` `React`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=Burhan-21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Burhan-21&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Burhan-21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
+
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Burhan-21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
+---
+
+## 🔝 Top Contributed Repos
+
 ![](https://github-contributor-stats.vercel.app/api?username=Burhan-21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Burhan-21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ Dev Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<div align="center">
+
+📬 **Open to Java Backend roles · Available August 2026**
+
+[burhan.mulla21@gmail.com](mailto:burhan.mulla21@gmail.com) · [LinkedIn](https://linkedin.com/in/burhanmulla) · [Nexus Forge](https://nexusforge.dev)
+
+[![](https://komarev.com/ghpvc/?username=Burhan-21&color=0e75b6&style=flat)](https://github.com/Burhan-21)
+
+</div>
