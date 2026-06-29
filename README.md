@@ -160,7 +160,7 @@ A healthcare platform digitizing hospital appointment booking and patient queue 
 
 <div align="center">
 
-📬 **Open to Java Backend roles · Available August 2026**
+📬 **Open to Java Backend roles · Ready to Ship**
 
 [burhan.mulla21@gmail.com](mailto:burhan.mulla21@gmail.com) · [LinkedIn](https://linkedin.com/in/burhanmulla)
 
