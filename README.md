@@ -2,7 +2,7 @@
 
 # Hi, I'm Shaikh Mohammed Burhan 👋
 
-**Java Backend Developer · Microservices · Spring Boot · Founder @ Nexus Forge**
+**Java Backend Developer · Microservices · Spring Boot 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burhanmulla)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:burhan.mulla21@gmail.com)
