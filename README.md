@@ -2,7 +2,7 @@
 
 # Hi, I'm Shaikh Mohammed Burhan 👋
 
-**Building production-grade Java backends · Spring Boot · Microservices · Kafka · Redis** 
+**Building production-grade Java backends · Spring Boot · Microservices · Kafka · Redis**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burhanmulla)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:burhan.mulla21@gmail.com)
@@ -19,7 +19,6 @@ I'm a final-year Computer Science student at KBN University building **productio
 
 - 🏆 **Top 50 / 650+ teams** — VITB × JHU Hackathon 2026
 - 💼 **2× Production Internships** before graduation — Cothon Solutions (Hyderabad) · Elevate Labs (Bengaluru)
-- 🚀 **Founder @ [Nexus Forge](https://nexusforge.dev)** — building enterprise B2B SaaS products
 - 🎓 KBN University · CSE · Expected July 2027 · CGPA: 8.3
 - 📍 Kalaburagi, Karnataka, India
 - 🎯 **Actively targeting Java Backend roles — available August 2026**
@@ -83,10 +82,10 @@ A production-grade **FinTech platform** targeting teens, students, and families 
 
 ---
 
-### 🛡️ [LLM Guard](https://github.com/Burhan-21/llm-guard) — Enterprise AI Gateway & Governance SaaS *(Nexus Forge)*
+### 🛡️ [LLM Guard](https://github.com/Burhan-21/llm-guard) — Enterprise AI Gateway & Governance SaaS
 > Enterprise · AI Infrastructure · Multi-tenant SaaS · Spring Boot · Kafka · pgvector
 
-An **enterprise-grade AI gateway** built under [Nexus Forge](https://nexusforge.dev) — helping companies govern, monitor, and control their LLM usage across multiple AI providers.
+An **enterprise-grade AI gateway** helping companies govern, monitor, and control their LLM usage across multiple AI providers.
 
 **What makes it stand out:**
 - 🔀 Multi-provider LLM routing: **OpenAI · Gemini · Anthropic · OpenRouter** in a single API
@@ -145,11 +144,25 @@ A healthcare platform digitizing hospital appointment booking and patient queue 
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Burhan-21/Burhan-21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Burhan-21/Burhan-21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Burhan-21/Burhan-21/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 📬 **Open to Java Backend roles · Available August 2026**
 
-[burhan.mulla21@gmail.com](mailto:burhan.mulla21@gmail.com) · [LinkedIn](https://linkedin.com/in/burhanmulla) · [Nexus Forge](https://nexusforge.dev)
+[burhan.mulla21@gmail.com](mailto:burhan.mulla21@gmail.com) · [LinkedIn](https://linkedin.com/in/burhanmulla)
 
 [![](https://komarev.com/ghpvc/?username=Burhan-21&color=0e75b6&style=flat)](https://github.com/Burhan-21)
 
